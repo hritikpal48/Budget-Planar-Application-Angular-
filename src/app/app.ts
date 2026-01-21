@@ -1,9 +1,11 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-
+import { MatIconModule } from '@angular/material/icon';
+import { CommonModule } from '@angular/common';
+ 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [CommonModule,RouterOutlet,MatIconModule],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
