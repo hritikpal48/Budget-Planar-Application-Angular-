@@ -100,7 +100,7 @@ body {
 }
 
 .navbar {
-    background: linear-gradient(135deg, #008002, #81d680);
+    background: linear-gradient(135deg, rgb(175, 185, 158), rgb(188, 143, 21) );
     padding: 5px 10px;
     display: flex;
     justify-content: center;

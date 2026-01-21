@@ -38,7 +38,7 @@ body {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #028000, #81d680);
+    background: linear-gradient(135deg, rgb(175, 185, 158), rgb(188, 143, 21) );
     color: #ffffff;
     padding: 12px 24px;
     border: none;
@@ -92,7 +92,7 @@ body {
 }
 
 .navbar {
-    background: linear-gradient(135deg, #008000, #83d680);
+    background: linear-gradient(135deg, rgb(175, 185, 158), rgb(188, 143, 21) );
     padding: 5px 10px;
     display: flex;
     justify-content: center;
